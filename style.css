@@ -37,9 +37,6 @@ body::-webkit-scrollbar {
   overflow: hidden;
 }
 
-.content {
-  display: grid;
-}
 
 .content-2 {
   display: flex;
