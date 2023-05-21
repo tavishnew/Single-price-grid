@@ -113,6 +113,7 @@ button{
     border-radius: 10px;
     border: none;
     transition-duration:0.5ms;
+    cursor:pointer;
 }
 
 .button p{
@@ -121,7 +122,6 @@ button{
     font-weight: 400;
     color: var(--LightGray);
     text-align: center;
-    cursor:pointer;
 }
 
 button:hover {
